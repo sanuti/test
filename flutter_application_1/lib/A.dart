@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Select_role extends StatelessWidget {
+class A extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
